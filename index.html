@@ -93,23 +93,30 @@
     border-radius: 1em;
   }
 
+  details summary::-webkit-details-marker {
+    display: none
+  }
+
   details > summary {
-    list-style-type: 'Показать подробности ↓';
-    cursor:pointer;
-    padding: 0.5rem;
-    border-radius: 6pt;
+    list-style: none;
   }
 
-  details > summary:hover {
-    background: white;
-    color: black;
+  details summary:before {
+    content: 'Показать подробности ↓';
+    cursor: pointer;
+    padding: 3pt;
+    border-radius: 3pt;
   }
 
-  details[open] > summary {
-    list-style-type: 'Скрыть подробности ↑';
-    cursor:pointer;
+  details summary:hover {
+    cursor: pointer;    
+  }
+
+  details[open] summary:before {
+    content: 'Скрыть подробности ↑';
     background: white;
     color: black;
+    cursor: pointer;
   }
 
   </style>
