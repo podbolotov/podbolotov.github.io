@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://podbolotov.github.io/blog</id>
+    <title>Максим Подболотов Blog</title>
+    <updated>2025-07-23T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://podbolotov.github.io/blog"/>
+    <subtitle>Максим Подболотов Blog</subtitle>
+    <icon>https://podbolotov.github.io/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Привет, блог.]]></title>
+        <id>https://podbolotov.github.io/blog/hello_blog</id>
+        <link href="https://podbolotov.github.io/blog/hello_blog"/>
+        <updated>2025-07-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Мне всегда было интересно, как формируется контентное наполнение блогов, не призванных принести автору какие-либо выгоды.]]></summary>
+        <content type="html"><![CDATA[<p>Мне всегда было интересно, как формируется контентное наполнение блогов, не призванных принести автору какие-либо выгоды.</p>
+<p><img decoding="async" loading="lazy" alt="Volgograd River Port" src="https://podbolotov.github.io/assets/images/hello_blog_cover-1d1fcf9608df817cfeb1a460fdb7ecb0.jpg" width="3264" height="2448" class="img_ev3q">
+<em>Автор фотографии: Подболотова Ангелина (<a href="https://unsplash.com/photos/UcKjTMHX_S8" target="_blank" rel="noopener noreferrer">источник</a>)</em></p>
+<p>Вероятно, лучший способ найти ответ на данный вопрос – попробовать завести такой блог самому.</p>
+<p>Будем считать, что данный блог создан в целях моего личного досуга, но дабы скрасить его чтение потенциальным сторонним зрителем, я оглашу несколько неприступных правил:</p>
+<ol>
+<li>Каждый пост в этом блоге будет сопровождаться фотографией, которая сделана либо мной лично, либо кем-то из моих близких друзей или родственников. Некоторые кадры, как мне кажется, вполне удачные.</li>
+<li>Весь материал в данном блоге будет написан без применения средств генерации контента (как графического, так и текстового), исключительно моими руками. "Created by organic idiots without AI", так сказать (уже давненько подумываю нарисовать такой логотипчик, чтобы включать его в README тех проектов, над которыми мне довелось потрудиться в свободное от работы время).</li>
+</ol>
+<p>Мне всегда казалось, что у меня недостаточно высокое самомнение для того, чтобы всерьэз счесть, что порождённые мной тексты достойны засорять и без того не самый чистый Интернет, но если вы видете перед собой этот текст – видимо, я был о себе лучшего, чем следует, мнения.</p>
+<p>Вы не увидите в этом блоге активного продвижения личного бренда, рекламы, или "высоконравственных рассуждений о высоком", но тем не менее - пусть будет.</p>
+<p>Так что привет, блог.</p>]]></content>
+        <author>
+            <name>Максим Подболотов</name>
+            <uri>https://podbolotov.github.io</uri>
+        </author>
+        <category label="Personal" term="Personal"/>
+    </entry>
+</feed>
